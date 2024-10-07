@@ -2,7 +2,7 @@
 const nome = "samara";
 const idade = 17;
 const inscrito = true;
-const curso = "Programação Web";
+const curso = "Programação Front-end";
 
 // Criando o objeto usuário
 const usuario = {
