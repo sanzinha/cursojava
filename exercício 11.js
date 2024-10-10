@@ -1,6 +1,6 @@
 // Dados do aluno
-const nomeAluno = "Ryan Silva";
-const idadeAluno = 16;
+const nomeAluno = "roberta samara";
+const idadeAluno = 17;
 const disciplinas = ["Matemática", "Português", "História", "Geografia"];
 const concluiuCurso = false;
 let notaFinal = 0; // Inicializada com 0, será atualizada se o aluno concluir o curso
