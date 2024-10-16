@@ -24,4 +24,4 @@ const aluno = {
             console.log(`O aluno ${aluno.nome} concluiu o curso com nota ${aluno.notaFinal}.`);
             } else {
               console.log(`O aluno ${aluno.nome} ainda está cursando as disciplinas: ${aluno.disciplinas}.`);
-              }
+            }
